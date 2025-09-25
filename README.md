@@ -28,6 +28,8 @@ Skilled in **MVVM, Coroutines/RxJava, Retrofit/OkHttp, CameraX/Camera2, OpenGL E
 ### 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C4%83n-quy%E1%BB%81n-nguy%E1%BB%85n-68a55528b/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:quyensinhvien19@gmail.com)  
+[![Zalo](https://img.shields.io/badge/Zalo-0080FF?logo=Zalo&logoColor=white)](https://zalo.me/84339350910)  
+📱 Phone: +84 339 350 910
 
 ---
 ⭐️ From [quyenquy2](https://github.com/quyenquy2)
