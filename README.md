@@ -51,6 +51,7 @@ Skilled in **MVVM (LiveData, ViewModel), Coroutines/RxJava, Retrofit/OkHttp, Cam
 - [🧩 Laka Widget](https://quantrimang.com/cong-nghe/cach-dung-laka-widget-tao-widget-tren-android-189307)  
   Contributed to a **widget customization app** enabling users to create and personalize Android home screen widgets.
 
+*And several other Android applications I contributed to that are not listed here.*  
 
 ### 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C4%83n-quy%E1%BB%81n-nguy%E1%BB%85n-68a55528b/)  
