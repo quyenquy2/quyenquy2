@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Quyền  
 
-🚀 **Android Developer** with + years of experience in designing, developing, and maintaining apps published on Google Play.  
+🚀 **Android Developer** with 3+ years of experience in designing, developing, and maintaining apps published on Google Play.  
 Skilled in **MVVM (LiveData, ViewModel), Coroutines/RxJava, Retrofit/OkHttp, CameraX/Camera2, OpenGL ES, Custom Views, Widgets, Accessibility Services, SMS/MMS, Screen Recording, Media Gallery, and Keyboard apps**.  
 
 ---
