@@ -24,6 +24,29 @@ Skilled in **MVVM, Coroutines/RxJava, Retrofit/OkHttp, CameraX/Camera2, OpenGL E
 - 🧩 **Home Screen Widgets** with real-time updates  
 
 ---
+### 📱 Apps I Contributed To on Google Play
+
+- [📸 GPS Map Camera - Photo GPS](https://play.google.com/store/apps/details?id=com.gpscamera.location.cameraphoto)  
+  Contributed to a **camera app** with GPS location tagging and photo enhancements.  
+
+- [🔤 Fonts+](https://play.google.com/store/apps/details?id=com.fontkeyboard.fonts)  
+  Worked on a **custom keyboard app** with font styles, themes, and emoji support.  
+
+- [🎛 SkyCenter Control](https://play.google.com/store/apps/details?id=com.skycontrol.ios.controlcenter)  
+  Participated in developing an **iOS-style control center** with quick toggles and shortcuts.  
+
+- [🔒 Lock Screen, Widgets - YoLock](https://play.google.com/store/apps/details?id=com.locker.lockscreen.os12)  
+  Involved in building a **custom lock screen & widgets app** with security and personalization features.  
+
+- [🖼 Easy Gallery - Photo Editor](https://play.google.com/store/apps/details?id=com.igallery.iphotos.collectiongallery)  
+  Contributed to a **photo gallery & editor app** with efficient image loading, organization, and editing tools.  
+
+- [🎥 Record Screen](https://play.google.com/store/apps/details?id=screenrecorder.recorder.editor)  
+  Worked on a **screen recording app** using MediaProjection & MediaCodec with editing features.  
+
+- [💬 AI Message SMS/MMS](https://play.google.com/store/apps/details?id=com.tapbi.spark.aimessage)  
+  Participated in creating a **messaging app** supporting SMS/MMS, AI features, and contact integration.  
+
 
 ### 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C4%83n-quy%E1%BB%81n-nguy%E1%BB%85n-68a55528b/)  
