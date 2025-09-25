@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Quyền  
 
-🚀 **Android Developer** with 2.5+ years of experience in designing, developing, and maintaining apps published on Google Play.  
-Skilled in **MVVM, Coroutines/RxJava, Retrofit/OkHttp, CameraX/Camera2, OpenGL ES, Custom Views, Widgets, Accessibility Services, SMS/MMS, Screen Recording, Media Gallery, and Keyboard apps**.  
+🚀 **Android Developer** with + years of experience in designing, developing, and maintaining apps published on Google Play.  
+Skilled in **MVVM (LiveData, ViewModel), Coroutines/RxJava, Retrofit/OkHttp, CameraX/Camera2, OpenGL ES, Custom Views, Widgets, Accessibility Services, SMS/MMS, Screen Recording, Media Gallery, and Keyboard apps**.  
 
 ---
 
 ### 🛠 Tech Stack
 - **Languages**: Kotlin, Java  
-- **Architecture**: MVVM, Clean Architecture, Dependency Injection (Hilt/Koin)  
-- **Asynchronous**: Coroutines (Flow), RxJava  
+- **Architecture**: MVVM (ViewModel, LiveData), Clean Architecture, Dependency Injection (Hilt/Koin)   
+- **Asynchronous**: Coroutines (Flow), LiveData, RxJava   
 - **Networking**: Retrofit, OkHttp, RESTful APIs  
 - **UI/UX**: Custom Views, Widgets, IME Keyboard, Material Design  
 - **System-level**: CameraX, MediaProjection, MediaCodec, SMS/MMS, Accessibility Service  
@@ -46,6 +46,9 @@ Skilled in **MVVM, Coroutines/RxJava, Retrofit/OkHttp, CameraX/Camera2, OpenGL E
 
 - [💬 AI Message SMS/MMS](https://play.google.com/store/apps/details?id=com.tapbi.spark.aimessage)  
   Participated in creating a **messaging app** supporting SMS/MMS, AI features, and contact integration.  
+
+- [🧩 Laka Widget](https://quantrimang.com/cong-nghe/cach-dung-laka-widget-tao-widget-tren-android-189307)  
+  Contributed to a **widget customization app** enabling users to create and personalize Android home screen widgets.
 
 
 ### 🌐 Connect with me
