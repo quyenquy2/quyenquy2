@@ -11,7 +11,8 @@ Skilled in **MVVM (LiveData, ViewModel), Coroutines/RxJava, Retrofit/OkHttp, Cam
 - **Asynchronous**: Coroutines (Flow), LiveData, RxJava   
 - **Networking**: Retrofit, OkHttp, RESTful APIs  
 - **UI/UX**: Custom Views, Widgets, IME Keyboard, Material Design  
-- **System-level**: CameraX, MediaProjection, MediaCodec, SMS/MMS, Accessibility Service  
+- **System-level**: CameraX, MediaProjection, MediaCodec, SMS/MMS, Accessibility Service
+- **Monitoring & Analytics**: Firebase Crashlytics, Firebase Remote Config, Firebase Analytics
 - **Others**: Git, Firebase, Google Play Console  
 
 ---
