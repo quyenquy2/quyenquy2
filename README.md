@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Quyền  
 
 🚀 **Android Developer** with 2.5+ years of experience in designing, developing, and maintaining apps published on Google Play.  
-Skilled in **MVVM (LiveData, ViewModel), Coroutines/RxJava, Retrofit/OkHttp, CameraX/Camera2 , Custom Views, Widgets, Accessibility Services, SMS/MMS, Screen Recording, Media Gallery, and Keyboard apps**.  
+Skilled in **MVVM (LiveData, ViewModel),Navigation Component, Dagger Hilt, Coroutines/RxJava, Retrofit/OkHttp, CameraX/Camera2 , Custom Views, Widgets, Accessibility Services, SMS/MMS, Screen Recording, Media Gallery, and Keyboard apps**.  
 
 ---
 
 ### 🛠 Tech Stack
 - **Languages**: Kotlin, Java  
-- **Architecture**: MVVM (ViewModel, LiveData), Clean Architecture, Dependency Injection (Hilt/Koin)   
+- **Architecture**: MVVM (ViewModel, LiveData), Clean Architecture, Dependency Injection (Hilt/Koin),Navigation Component   
 - **Asynchronous**: Coroutines (Flow), LiveData, RxJava   
 - **Networking**: Retrofit, OkHttp, RESTful APIs  
 - **UI/UX**: Custom Views, Widgets, IME Keyboard, Material Design  
