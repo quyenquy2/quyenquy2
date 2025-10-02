@@ -13,7 +13,7 @@ Skilled in **MVVM (LiveData, ViewModel),Navigation Component, Dagger Hilt, Corou
 - **UI/UX**: Custom Views, Widgets, IME Keyboard, Material Design  
 - **System-level**: CameraX, MediaProjection, MediaCodec, SMS/MMS, Accessibility Service
 - **Monitoring & Analytics**: Firebase Crashlytics, Firebase Remote Config, Firebase Analytics
-- **Others**: Git, Firebase, Google Play Console  
+- **Others**: Git, Jira, Figma, Firebase, Google Play Console  
 
 ---
 
