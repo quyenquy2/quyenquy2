@@ -7,7 +7,7 @@ Skilled in **MVVM (LiveData, ViewModel),Navigation Component, Dagger Hilt, Corou
 
 ### 🛠 Tech Stack
 - **Languages**: Kotlin, Java  
-- **Architecture**: MVVM (ViewModel, LiveData), Clean Architecture, Dependency Injection (Hilt/Koin),Navigation Component   
+- **Architecture**: MVVM (ViewModel, LiveData),Dependency Injection (Hilt/Koin),Navigation Component   
 - **Asynchronous**: Coroutines (Flow), LiveData, RxJava   
 - **Networking**: Retrofit, OkHttp, RESTful APIs  
 - **UI/UX**: Custom Views, Widgets, IME Keyboard, Material Design  
