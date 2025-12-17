@@ -1,63 +1,121 @@
-# 👋 Hi, I'm Quyền  
+# 👋 Hi, I'm Nguyễn Văn Quyền
 
-🚀 **Android Developer** with 2.5+ years of experience in designing, developing, and maintaining apps published on Google Play.  
-Skilled in **MVVM (LiveData, ViewModel),Navigation Component, Dagger Hilt, Coroutines/RxJava, Retrofit/OkHttp, CameraX/Camera2 , Custom Views, Widgets, Accessibility Services, SMS/MMS, Screen Recording, Media Gallery, and Keyboard apps**.  
-
----
-
-### 🛠 Tech Stack
-- **Languages**: Kotlin, Java  
-- **Architecture**: MVVM (ViewModel, LiveData),Dependency Injection (Hilt/Koin),Navigation Component   
-- **Asynchronous**: Coroutines (Flow), LiveData, RxJava   
-- **Networking**: Retrofit, OkHttp, RESTful APIs  
-- **UI/UX**: Custom Views, Widgets, IME Keyboard, Material Design  
-- **System-level**: CameraX, MediaProjection, MediaCodec, SMS/MMS, Accessibility Service
-- **Monitoring & Analytics**: Firebase Crashlytics, Firebase Remote Config, Firebase Analytics
-- **Others**: Git, Jira, Figma, Firebase, Google Play Console  
+### AI Engineer | Computer Vision | Real-time AI Systems
 
 ---
 
-### 📱 Featured Projects
-- 📸 **Camera & Screen Recording App** (CameraX, OpenGL ES, MediaProjection)  
-- 🎨 **Custom Gallery App** with efficient image loading & editing  
-- ⌨️ **Custom Android Keyboard** with advanced input handling  
-- 💬 **SMS Messaging App** with contact integration & background services  
-- 🧩 **Home Screen Widgets** with real-time updates  
+## 🧠 About Me
+
+I'm an **AI Engineer with 2+ years of experience** specializing in **Computer Vision and real-time AI systems**.
+I focus on building **production-ready AI pipelines** for **warehouse automation** and **security surveillance**, working end-to-end from **dataset → training → deployment → monitoring**.
+
+My main interests:
+
+* Real-time object detection & tracking
+* Multi-camera AI systems
+* Model deployment & performance optimization
+* Practical AI systems that run **24/7 in production**
 
 ---
-### 📱 Apps I Contributed To on Google Play
 
-- [📸 GPS Map Camera - Photo GPS](https://play.google.com/store/apps/details?id=com.gpscamera.location.cameraphoto)  
-  Contributed to a **camera app** with GPS location tagging and photo enhancements.  
+## 🛠 Core Skills
 
-- [🔤 Fonts+](https://play.google.com/store/apps/details?id=com.fontkeyboard.fonts)  
-  Worked on a **custom keyboard app** with font styles, themes, and emoji support.  
+### AI & Computer Vision
 
-- [🎛 SkyCenter Control](https://play.google.com/store/apps/details?id=com.skycontrol.ios.controlcenter)  
-  Participated in developing an **iOS-style control center** with quick toggles and shortcuts.  
+* Object Detection (YOLO)
+* Object Tracking (ByteTrack)
+* Dataset design & data augmentation
+* Model evaluation (mAP, precision, recall)
 
-- [🔒 Lock Screen, Widgets - YoLock](https://play.google.com/store/apps/details?id=com.locker.lockscreen.os12)  
-  Involved in building a **custom lock screen & widgets app** with security and personalization features.  
+### Model Deployment
 
-- [🖼 Easy Gallery - Photo Editor](https://play.google.com/store/apps/details?id=com.igallery.iphotos.collectiongallery)  
-  Contributed to a **photo gallery & editor app** with efficient image loading, organization, and editing tools.  
+* Export model to **ONNX**
+* Real-time inference on **GPU**
+* FPS & latency optimization at system level
 
-- [🎥 Record Screen](https://play.google.com/store/apps/details?id=screenrecorder.recorder.editor)  
-  Worked on a **screen recording app** using MediaProjection & MediaCodec with editing features.  
+### AI System Engineering
 
-- [💬 AI Message SMS/MMS](https://play.google.com/store/apps/details?id=com.tapbi.spark.aimessage)  
-  Participated in creating a **messaging app** supporting SMS/MMS, AI features, and contact integration.  
-
-- [🧩 Laka Widget](https://quantrimang.com/cong-nghe/cach-dung-laka-widget-tao-widget-tren-android-189307)  
-  Contributed to a **widget customization app** enabling users to create and personalize Android home screen widgets.
-
-*And several other Android applications I contributed to that are not listed here.*  
-
-### 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C4%83n-quy%E1%BB%81n-nguy%E1%BB%85n-68a55528b/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:quyensinhvien19@gmail.com)  
-[![Zalo](https://img.shields.io/badge/Zalo-0080FF?logo=Zalo&logoColor=white)](https://zalo.me/84339350910)  
-📱 Phone: +84 339 350 910
+* RTSP camera processing
+* Real-time inference pipeline
+* Dockerized AI services
+* REST API integration
 
 ---
-⭐️ From [quyenquy2](https://github.com/quyenquy2)
+
+## 🚀 Featured Projects
+
+### 📦 Intelligent Warehouse Detection & Tracking System
+
+**Tesla Detector**
+
+**Description**
+A real-time AI system for detecting and tracking **pallets and carton boxes** in warehouse environments using camera streams.
+
+**Key Contributions**
+
+* Designed datasets for warehouse conditions:
+
+  * Low-light environments
+  * Occlusion & partial objects
+* Trained YOLO models for pallet/box detection
+* Applied data augmentation for real-world robustness
+* Integrated object tracking to maintain stable IDs
+* Built real-time inference pipeline:
+
+  ```
+  Capture → Decode → Inference → Tracking → Event
+  ```
+* Achieved stable real-time performance per camera
+* Deployed system using Docker and exposed API for backend integration
+
+---
+
+### 🔥 Fire & Intrusion AI – Multi-Camera Surveillance System
+
+**Description**
+A real-time AI system for **fire detection and intrusion monitoring** across multiple surveillance cameras.
+
+**Key Contributions**
+
+* Built fire detection using a two-stage approach:
+
+  * Fire / no-fire classification
+  * Fire hotspot detection
+* Reduced false alarms using event-duration logic
+* Implemented intrusion detection with:
+
+  * Person detection
+  * Restricted area masking
+* Designed system to handle multiple camera streams in parallel
+* Implemented alerting mechanism with image snapshots
+* Monitored system performance (FPS, dropped frames)
+
+---
+
+## 🧩 System Experience
+
+* Real-time AI pipelines
+* Multi-camera processing
+* AI microservices with Docker
+* Production monitoring & alerting
+
+---
+
+## 🎯 Career Goal
+
+To grow into a **Senior AI Engineer**, focusing on:
+
+* Real-time Computer Vision systems
+* EdgeAI & large-scale camera deployments
+* Reliable AI systems for industrial applications
+
+---
+
+## 📫 Contact
+
+* 📧 Email: [quyenquy2124@gmail.com](mailto:quyenquy2124@gmail.com)
+* 🔗 GitHub: [github.com/quyenquy2](https://github.com/quyenquy2)
+
+---
+
+⭐ *This GitHub is used to showcase practical AI engineering work and system-oriented projects rather than toy demos.*
